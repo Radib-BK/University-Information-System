@@ -1,0 +1,23 @@
+Teacher 2
+1
+1
+2000
+rtcd@gmail.com
+Rajshahi
+Teacher
+1
+1
+2000
+500.02
+CSE
+2
+CSE
+Web Programming
+CSE
+4539
+3
+CSE
+Web Security
+CSE
+4531
+3

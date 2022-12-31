@@ -1,0 +1,97 @@
+Eddo
+1
+1
+2000
+eddo@gmail.com
+DHAKA
+CSE
+1
+2021
+1
+0
+4
+CSE
+Structured Programming
+CSE
+4107
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+CSE
+Islamiat
+HUM
+4145
+2
+0
+0
+0
+0
+0
+0
+0
+0
+0
+CSE
+Physics
+PHY
+4141
+3
+100
+1
+1
+10
+0
+0
+0
+0
+0
+CSE
+Differential Calculus
+MATH
+4141
+4
+0
+0
+0
+0
+0
+0
+0
+0
+0
+2
+Book 1
+Author 1
+Publisher 1
+Genre 1
+10
+10
+101
+N/A
+27
+12
+2022
+27
+1
+2023
+Book 2
+Author 2
+Publisher 2
+Genre 2
+10
+10
+102
+N/A
+27
+12
+2022
+27
+1
+2023

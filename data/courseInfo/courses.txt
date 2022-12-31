@@ -1,0 +1,86 @@
+17
+MATH
+4341
+Linear Algebra
+3
+CSE
+CSE
+4301
+OOP
+3
+CSE
+CSE
+4303
+Data Structure
+3
+CSE
+CSE
+4307
+Database
+3
+CSE
+CSE
+4107
+Structured Programming
+3
+CSE
+HUM
+4145
+Islamiat
+2
+CSE
+PHY
+4141
+Physics
+3
+CSE
+MATH
+4141
+Differential Calculus
+4
+CSE
+CSE
+4501
+Operating System
+3
+CSE
+CSE
+4511
+Computer Networks
+3
+CSE
+CSE
+4539
+Web Programming
+3
+CSE
+CSE
+4531
+Web Security
+3
+CSE
+MATH
+4321
+Linear Algebra
+3
+EEE
+EEE
+4302
+Power System
+3
+EEE
+HUM
+4345
+Science And Islam
+2
+EEE
+EEE
+4307
+Digital Electronics
+3
+EEE
+EEE
+4103
+Electronics
+3
+EEE

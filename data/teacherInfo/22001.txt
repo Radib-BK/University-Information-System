@@ -1,0 +1,33 @@
+Teacher 3
+1
+1
+2000
+efgh@gmail.com
+Dhaka
+Teacher
+1
+1
+2000
+1500.01
+EEE
+4
+EEE
+Linear Algebra
+MATH
+4321
+3
+EEE
+Power System
+EEE
+4302
+3
+EEE
+Science And Islam
+HUM
+4345
+2
+EEE
+Digital Electronics
+EEE
+4307
+3

@@ -1,0 +1,63 @@
+Teacher 1
+1
+1
+2000
+abcd@gmail.com
+Rajshahi
+Teacher
+1
+1
+2000
+50000
+CSE
+10
+CSE
+Linear Algebra
+MATH
+4341
+3
+CSE
+OOP
+CSE
+4301
+3
+CSE
+Data Structure
+CSE
+4303
+3
+CSE
+Database
+CSE
+4307
+3
+CSE
+Structured Programming
+CSE
+4107
+3
+CSE
+Islamiat
+HUM
+4145
+2
+CSE
+Physics
+PHY
+4141
+3
+CSE
+Differential Calculus
+MATH
+4141
+4
+CSE
+Operating System
+CSE
+4501
+3
+CSE
+Computer Networks
+CSE
+4511
+3
